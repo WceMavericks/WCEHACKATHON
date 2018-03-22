@@ -1,0 +1,21 @@
+div.bck {
+    background-color: #dbdbdb;
+}
+
+body{
+    padding-top: 57px;
+}
+
+div.footer {
+    background-color: #030404;
+    padding: 10px;
+    height: 300px;
+    width: 100%;
+}
+
+div.footer2 {
+    background-color: #313131;
+    padding: 10px;
+    height: 80px;
+    width: 100%;
+}
